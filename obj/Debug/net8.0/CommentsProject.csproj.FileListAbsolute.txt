@@ -1,0 +1,15 @@
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/bin/Debug/net8.0/CommentsProject
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/bin/Debug/net8.0/CommentsProject.deps.json
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/bin/Debug/net8.0/CommentsProject.runtimeconfig.json
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/bin/Debug/net8.0/CommentsProject.dll
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/bin/Debug/net8.0/CommentsProject.pdb
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.AssemblyInfoInputs.cache
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.AssemblyInfo.cs
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.csproj.CoreCompileInputs.cache
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.sourcelink.json
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.dll
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/refint/CommentsProject.dll
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.pdb
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/CommentsProject.genruntimeconfig.cache
+/home/notebook-admin/Desktop/C#Projects/CommentsProject/obj/Debug/net8.0/ref/CommentsProject.dll
